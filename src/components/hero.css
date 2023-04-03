@@ -1,0 +1,10 @@
+.hero-bg {
+  object-fit: cover;
+  width: 100%;
+}
+
+.hero h2 {
+  position: absolute;
+  display: block;
+}
+
